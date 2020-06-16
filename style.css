@@ -1,6 +1,6 @@
 *{
 margin:10px;
-  bordersize:box-sizing;
+  box-sizing:border-box;
 }
 body{
 background-color:#7b68ee;
