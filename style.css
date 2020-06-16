@@ -92,7 +92,7 @@ width:100%;
 }
 
 
-@media (max-width:780px){
+@media (max-width:780px) orientation:landscape{
 .cointainer-2,.box1-2,.box2-2{
 float:center;}
 
